@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="218" viewBox="0 0 780 218" xml:space="preserve">
+  <defs>
+    <filter id="shadow" x="-8%" y="-8%" width="116%" height="124%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="8" y="8" width="764" height="196" rx="12" fill="#16161e" stroke="#2a2e42" stroke-width="1"/>
+  </g>
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" xml:space="preserve">
+    <text x="36" y="44"><tspan fill="#5af78e">yyf@l3yf</tspan><tspan fill="#565f89">:</tspan><tspan fill="#57c7ff">~</tspan><tspan fill="#e2e2e3">$ cat stats.txt</tspan></text>
+    <text x="744" y="44" text-anchor="end" fill="#565f89">@YYF1337</text>
+
+    <text x="36" y="86" fill="#a9b1d6">public repos</text>
+    <text x="744" y="86" text-anchor="end" fill="#57c7ff">3</text>
+
+    <text x="36" y="114" fill="#a9b1d6">total stars</text>
+    <text x="744" y="114" text-anchor="end" fill="#57c7ff">3</text>
+
+    <text x="36" y="142" fill="#a9b1d6">member since</text>
+    <text x="744" y="142" text-anchor="end" fill="#57c7ff">2022-02</text>
+
+    <text x="36" y="170" fill="#a9b1d6">focus</text>
+    <text x="744" y="170" text-anchor="end" fill="#57c7ff">systems · web3</text>
+  </g>
+</svg>
