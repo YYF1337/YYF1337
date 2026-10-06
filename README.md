@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@600&size=24&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=110&lines=Systems%20%E2%9A%A1%20Web3%20%E2%9A%A1%20Binary%20RE;Smart%20Contract%20%C2%B7%20On-chain%20Data%20%C2%B7%20Indexers;Building%20the%20machine%20room%20of%20the%20chain;C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Solidity" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@600&size=24&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=110&lines=Systems%20%E2%9A%A1%20Web3%20%E2%9A%A1%20Binary%20RE;Smart%20Contract%20%C2%B7%20On-chain%20Data%20%C2%B7%20Indexers;Building%20the%20machine%20room%20of%20the%20chain;C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Solidity;Full%20Stack%20Engineer" alt="typing" />
 </div>
 
 <div align="center">
